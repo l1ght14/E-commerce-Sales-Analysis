@@ -33,4 +33,4 @@ An interactive Power BI dashboard built using the Sample Superstore dataset. It 
 
 ## Screenshot
 
-![Dashboard Preview](dashboard_screenshot.png)
+![Dashboard Preview](https://github.com/l1ght14/E-commerce-Sales-Analysis/blob/main/Screenshot%202025-04-09%20165707.png)
